@@ -17,9 +17,11 @@ Server-side
 ![hash_server_2](https://user-images.githubusercontent.com/93263533/159914330-4d9a4583-ddec-4432-bb50-7aaed2804362.jpg)
 
 Client-side
+![hash_client_2](https://user-images.githubusercontent.com/93263533/159914706-56283fd0-4b41-4205-99bf-f1158163c3bd.jpg)
 
 # Experiment two:
 Server-side
+![hash_server](https://user-images.githubusercontent.com/93263533/159914741-e32300a0-9d71-4570-89bc-00666fdae0a4.jpg)
 
 Client-side
 ![hash_client](https://user-images.githubusercontent.com/93263533/159914423-4e84f393-9274-4a51-8865-5782ced33a9d.jpg)
